@@ -1,0 +1,1 @@
+This particle system can be used to create a Dragon Ball Z-style Kamehameha effect, featuring dynamic energy particles with glowing trails, radiating power, and vibrant colors that mimic the iconic energy beam attack.
